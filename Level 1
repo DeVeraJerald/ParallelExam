@@ -1,0 +1,45 @@
+Level 1
+1.	Differentiate between SIMD and MIMD? Explain
+-	SIMD is Single Instruction Multiple data and MIMD is Multiple Instruction and Multiple data. 
+the different between this two is how many they can proccess in single run. In SIMD it can process 4 data 
+in a single instruction its like computing multiple operation in a single formula but the MIMD can proccess 
+multiple operations and compute it in different kind of formula.
+
+
+2.	What are the performance metrics of parallel systems? Explain each.
+-	speedup is a statistic that compares the performance of two systems working on the same issue.
+
+-	Efficiency is a measure of how much computing capability is being used. It evaluates the 
+relationship between performance and resource availability available to attain that level of performance
+
+-	Execution Time is the time that elapses from the moment a parallel computation starts to the moment
+the last processing element finishes execution
+
+-	Total parallel overhead is the total amount of time spent by all processors on non-productive tasks
+
+
+3.	How does the performance of metrics of parallel systems affect each other? Explain.
+-	It affects the performance of the parallel system because it can reduce the time of processing by reducing the non-productive task in processors
+
+4.	Explain what pipelining is
+-	Pipelining is splitting the task into each available processor. 
+for example is a Group project that you want to submit early so every member is a 
+processor and the task is the project. to submit it early you need to split the task among 
+every member so that it can finish early and submit it.
+
+5.	Illustrate and explain what a Von Neuman Architecture is.
+-	Von Neumann architecture is a computer architecture that contains 
+Input and Output it has CPU or central processing unit that contains control 
+and unit arithmetic logic unit, and it has a memory unit.
+
+
+Level 2
+
+2. In a right triangle, the square of the length of one side is equal to the
+sum of the squares of the lengths of the other two sides. Write a
+program that prompts the user to enter the length of the three sides of
+a triangle and then outputs a message indicating whether the triangle
+is a right triangle. 
+
+Source code:
+
